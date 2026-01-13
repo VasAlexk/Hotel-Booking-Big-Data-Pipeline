@@ -1,0 +1,2032 @@
+[{
+  "_id": {
+    "$oid": "684b948a6233357e7c0b0873"
+  },
+  "time": {
+    "$date": "2025-06-13T01:10:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "2"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948b6233357e7c0b0879"
+  },
+  "time": {
+    "$date": "2025-06-13T02:50:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948b6233357e7c0b0877"
+  },
+  "time": {
+    "$date": "2025-06-13T01:10:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948b6233357e7c0b0875"
+  },
+  "time": {
+    "$date": "2025-06-13T04:30:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "3"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948b6233357e7c0b087b"
+  },
+  "time": {
+    "$date": "2025-06-13T02:50:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948b6233357e7c0b087d"
+  },
+  "time": {
+    "$date": "2025-06-13T02:00:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "2"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948c6233357e7c0b0881"
+  },
+  "time": {
+    "$date": "2025-06-13T00:20:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "4"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948c6233357e7c0b087f"
+  },
+  "time": {
+    "$date": "2025-06-13T02:50:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948c6233357e7c0b0883"
+  },
+  "time": {
+    "$date": "2025-06-13T03:40:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948d6233357e7c0b0885"
+  },
+  "time": {
+    "$date": "2025-06-13T02:50:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948d6233357e7c0b0887"
+  },
+  "time": {
+    "$date": "2025-06-13T01:10:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948d6233357e7c0b0889"
+  },
+  "time": {
+    "$date": "2025-06-13T01:10:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948d6233357e7c0b088b"
+  },
+  "time": {
+    "$date": "2025-06-13T01:10:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948d6233357e7c0b088d"
+  },
+  "time": {
+    "$date": "2025-06-13T04:30:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948e6233357e7c0b088f"
+  },
+  "time": {
+    "$date": "2025-06-13T04:30:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948e6233357e7c0b0891"
+  },
+  "time": {
+    "$date": "2025-06-13T05:20:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948f6233357e7c0b0893"
+  },
+  "time": {
+    "$date": "2025-06-13T00:20:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948f6233357e7c0b0895"
+  },
+  "time": {
+    "$date": "2025-06-13T01:10:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948f6233357e7c0b0897"
+  },
+  "time": {
+    "$date": "2025-06-13T00:20:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b948f6233357e7c0b0898"
+  },
+  "time": {
+    "$date": "2025-06-13T00:20:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94906233357e7c0b089a"
+  },
+  "time": {
+    "$date": "2025-06-12T23:30:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94906233357e7c0b089c"
+  },
+  "time": {
+    "$date": "2025-06-13T02:00:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94916233357e7c0b089e"
+  },
+  "time": {
+    "$date": "2025-06-13T03:40:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94936233357e7c0b08a2"
+  },
+  "time": {
+    "$date": "2025-06-13T02:00:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94936233357e7c0b08a4"
+  },
+  "time": {
+    "$date": "2025-06-13T03:40:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "2"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94936233357e7c0b08a6"
+  },
+  "time": {
+    "$date": "2025-06-13T05:20:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94936233357e7c0b08a0"
+  },
+  "time": {
+    "$date": "2025-06-13T03:40:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94966233357e7c0b08a8"
+  },
+  "time": {
+    "$date": "2025-06-12T23:30:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94966233357e7c0b08aa"
+  },
+  "time": {
+    "$date": "2025-06-13T04:30:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "2"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94966233357e7c0b08ac"
+  },
+  "time": {
+    "$date": "2025-06-13T05:20:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94966233357e7c0b08ae"
+  },
+  "time": {
+    "$date": "2025-06-13T02:00:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b949c6233357e7c0b08b0"
+  },
+  "time": {
+    "$date": "2025-06-13T01:10:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b949c6233357e7c0b08b6"
+  },
+  "time": {
+    "$date": "2025-06-13T04:30:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b949c6233357e7c0b08b2"
+  },
+  "time": {
+    "$date": "2025-06-13T02:00:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b949c6233357e7c0b08b4"
+  },
+  "time": {
+    "$date": "2025-06-13T05:20:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a06233357e7c0b08b8"
+  },
+  "time": {
+    "$date": "2025-06-13T02:50:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a06233357e7c0b08bc"
+  },
+  "time": {
+    "$date": "2025-06-13T02:50:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a06233357e7c0b08be"
+  },
+  "time": {
+    "$date": "2025-06-13T00:20:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a06233357e7c0b08bf"
+  },
+  "time": {
+    "$date": "2025-06-13T01:10:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "3"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a06233357e7c0b08c0"
+  },
+  "time": {
+    "$date": "2025-06-13T02:00:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a06233357e7c0b08ba"
+  },
+  "time": {
+    "$date": "2025-06-13T04:30:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a16233357e7c0b08c2"
+  },
+  "time": {
+    "$date": "2025-06-13T04:30:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a16233357e7c0b08c4"
+  },
+  "time": {
+    "$date": "2025-06-13T00:20:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a16233357e7c0b08c6"
+  },
+  "time": {
+    "$date": "2025-06-13T00:20:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a16233357e7c0b08c7"
+  },
+  "time": {
+    "$date": "2025-06-13T03:40:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b94a16233357e7c0b08c8"
+  },
+  "time": {
+    "$date": "2025-06-13T03:40:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b96996233357e7c0b08d9"
+  },
+  "time": {
+    "$date": "2025-06-13T05:20:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b969a6233357e7c0b08db"
+  },
+  "time": {
+    "$date": "2025-06-13T05:20:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b98ed6233357e7c0b08e9"
+  },
+  "time": {
+    "$date": "2025-06-13T06:10:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b98f26233357e7c0b08eb"
+  },
+  "time": {
+    "$date": "2025-06-13T06:10:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b9b496233357e7c0b08f5"
+  },
+  "time": {
+    "$date": "2025-06-13T06:10:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b9d9d6233357e7c0b0902"
+  },
+  "time": {
+    "$date": "2025-06-13T06:10:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b9da26233357e7c0b0904"
+  },
+  "time": {
+    "$date": "2025-06-13T06:10:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684b9ffa6233357e7c0b090b"
+  },
+  "time": {
+    "$date": "2025-06-13T06:10:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684ba2506233357e7c0b0913"
+  },
+  "time": {
+    "$date": "2025-06-13T06:10:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684ba6224fe7c323779d646d"
+  },
+  "time": {
+    "$date": "2025-06-13T07:00:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684ba9594fe7c323779d647c"
+  },
+  "time": {
+    "$date": "2025-06-13T07:00:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684ba95e4fe7c323779d647e"
+  },
+  "time": {
+    "$date": "2025-06-13T07:00:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684babaf4fe7c323779d648d"
+  },
+  "time": {
+    "$date": "2025-06-13T07:00:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bae064fe7c323779d649f"
+  },
+  "time": {
+    "$date": "2025-06-13T07:00:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "3"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bae0e4fe7c323779d64a1"
+  },
+  "time": {
+    "$date": "2025-06-13T07:00:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bb2b74fe7c323779d64bc"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bb2b94fe7c323779d64be"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bb2ba4fe7c323779d64c0"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bb2bb4fe7c323779d64c2"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bbd66282c81426b63cd4e"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bbd66282c81426b63cd4c"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bbd68282c81426b63cd50"
+  },
+  "time": {
+    "$date": "2025-06-13T08:40:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "2"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bbd6b282c81426b63cd52"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bbd6d282c81426b63cd54"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "4"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bbd72282c81426b63cd56"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "2"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bbd72282c81426b63cd57"
+  },
+  "time": {
+    "$date": "2025-06-13T08:40:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bbd73282c81426b63cd59"
+  },
+  "time": {
+    "$date": "2025-06-13T08:40:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bbd73282c81426b63cd5b"
+  },
+  "time": {
+    "$date": "2025-06-13T07:50:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bc0d1282c81426b63cd67"
+  },
+  "time": {
+    "$date": "2025-06-13T08:40:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bc321282c81426b63cd73"
+  },
+  "time": {
+    "$date": "2025-06-13T08:40:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "2"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bc7d2282c81426b63cd7f"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bca2a282c81426b63cd93"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "3"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bca2b282c81426b63cd95"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bcc932900d2538d3354e2"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "4"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bcc962900d2538d3354e4"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bcc962900d2538d3354e6"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bcfc92900d2538d335500"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "5"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bd1332900d2538d33550f"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bd1352900d2538d335511"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "5"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bd1362900d2538d335513"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bd1372900d2538d335515"
+  },
+  "time": {
+    "$date": "2025-06-13T09:30:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3892900d2538d335524"
+  },
+  "time": {
+    "$date": "2025-06-13T10:20:00.000Z"
+  },
+  "destination_name": "Rio de Janeiro",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "3"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bd38e2900d2538d335526"
+  },
+  "time": {
+    "$date": "2025-06-13T10:20:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bd5e32900d2538d335532"
+  },
+  "time": {
+    "$date": "2025-06-13T10:20:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bd83d2900d2538d33553a"
+  },
+  "time": {
+    "$date": "2025-06-13T10:20:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bda952900d2538d335546"
+  },
+  "time": {
+    "$date": "2025-06-13T10:20:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bda952900d2538d335548"
+  },
+  "time": {
+    "$date": "2025-06-13T10:20:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bdcec2900d2538d33555a"
+  },
+  "time": {
+    "$date": "2025-06-13T10:20:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bdcec2900d2538d33555c"
+  },
+  "time": {
+    "$date": "2025-06-13T10:20:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be2248b1e33192ebebbb9"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be2258b1e33192ebebbbb"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be2288b1e33192ebebbbd"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be22a8b1e33192ebebbbf"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be22d8b1e33192ebebbc1"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be3f98b1e33192ebebbd0"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be64e8b1e33192ebebbe9"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be64e8b1e33192ebebbeb"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "3"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be64f8b1e33192ebebbed"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be8a38b1e33192ebebc0d"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Tokyo",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be8a68b1e33192ebebc0f"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be8a68b1e33192ebebc11"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "4"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be8a78b1e33192ebebc13"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "3"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684be8a88b1e33192ebebc15"
+  },
+  "time": {
+    "$date": "2025-06-13T11:10:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bed538b1e33192ebebc2e"
+  },
+  "time": {
+    "$date": "2025-06-13T12:00:00.000Z"
+  },
+  "destination_name": "New York",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bed538b1e33192ebebc30"
+  },
+  "time": {
+    "$date": "2025-06-13T12:00:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bed538b1e33192ebebc32"
+  },
+  "time": {
+    "$date": "2025-06-13T12:00:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf2cefba92a5a506b1e79"
+  },
+  "time": {
+    "$date": "2025-06-13T12:00:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf2d0fba92a5a506b1e7b"
+  },
+  "time": {
+    "$date": "2025-06-13T12:00:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf2d9fba92a5a506b1e7d"
+  },
+  "time": {
+    "$date": "2025-06-13T12:00:00.000Z"
+  },
+  "destination_name": "Paris",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf2f6fba92a5a506b1e7f"
+  },
+  "time": {
+    "$date": "2025-06-13T12:00:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf42ffba92a5a506b1e8a"
+  },
+  "time": {
+    "$date": "2025-06-13T12:00:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf445fba92a5a506b1e8c"
+  },
+  "time": {
+    "$date": "2025-06-13T12:00:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf6bafba92a5a506b1e9d"
+  },
+  "time": {
+    "$date": "2025-06-13T12:50:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf90bfba92a5a506b1eb3"
+  },
+  "time": {
+    "$date": "2025-06-13T12:50:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf90cfba92a5a506b1eb5"
+  },
+  "time": {
+    "$date": "2025-06-13T12:50:00.000Z"
+  },
+  "destination_name": "Rome",
+  "search_volume": {
+    "$numberLong": "0"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf910fba92a5a506b1eb7"
+  },
+  "time": {
+    "$date": "2025-06-13T12:50:00.000Z"
+  },
+  "destination_name": "Singapore",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bf911fba92a5a506b1eb9"
+  },
+  "time": {
+    "$date": "2025-06-13T12:50:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bfb61fba92a5a506b1ec8"
+  },
+  "time": {
+    "$date": "2025-06-13T12:50:00.000Z"
+  },
+  "destination_name": "London",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bfb66fba92a5a506b1eca"
+  },
+  "time": {
+    "$date": "2025-06-13T12:50:00.000Z"
+  },
+  "destination_name": "Sydney",
+  "search_volume": {
+    "$numberLong": "1"
+  },
+  "bookings_volume": {
+    "$numberLong": "0"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684bfdbffba92a5a506b1ed4"
+  },
+  "time": {
+    "$date": "2025-06-13T12:50:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "2"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+},
+{
+  "_id": {
+    "$oid": "684c0016fba92a5a506b1edf"
+  },
+  "time": {
+    "$date": "2025-06-13T12:50:00.000Z"
+  },
+  "destination_name": "Dubai",
+  "search_volume": {
+    "$numberLong": "3"
+  },
+  "bookings_volume": {
+    "$numberLong": "1"
+  },
+  "sales_volume": 0
+}]
